@@ -19,6 +19,6 @@ class HiServiceTest {
     @Test
     void hiServiceShouldReturnGreetingMessage() {
         String result = hiService.sayHi();
-        Assertions.assertEquals("Hi, Candidate!", result);
+        Assertions.assertEquals("Hi, Sushant keep learning keep growing, fantastico!", result);
     }
 }
